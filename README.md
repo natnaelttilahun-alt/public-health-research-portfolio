@@ -1,23 +1,22 @@
-# public-health-research-portfolio# Public Health Research Portfolio – Dr. Natnael Tsegaye
+# Public Health Research Portfolio – Dr. Natnael Tsegaye
 
-This repository showcases sample quantitative and data-management workflows relevant to
-global health, maternal and child health (MCH), and surveillance research in LMIC settings.
+This repository contains sample analytical workflows relevant to global health,
+maternal and child health (MCH), and epidemiologic research in low- and middle-income settings.
 
-The scripts reflect skills developed through:
+The scripts demonstrate practical use of:
+- R for data cleaning, descriptive statistics, and regression analysis
+- Stata for epidemiologic modeling and reporting
+- SQL concepts (training in progress) for structured health data querying
+
+The work reflects experience gained through:
 - COVID-19 National Serosurvey (Ohio State Global One Health)
-- Lancet MCH & Surgical Center coordination
-- Clinical work in neonatal and pediatric care
-- Ongoing SQL for Data Analysis training (Coursera)
+- Coordination work at Lancet MCH & Surgical Center
+- Clinical and supervisory experience in neonatal and pediatric care
 
-⚠️ All datasets used here are simulated (dummy data) for demonstration purposes only.
+⚠️ All datasets used in this repository are simulated (dummy data) and do not contain
+any real patient information.
 
-## Tools Demonstrated
-- R: data cleaning, descriptive statistics, regression modeling
-- Stata: epidemiologic analysis and reporting
-- SQL: querying and summarizing health datasets
-- Public health focus: perinatal outcomes, surveillance, MCH indicators
-
-## Folder Structure
-- `/R-analysis` – quantitative analysis scripts
-- `/SQL` – health database queries
-- `/Stata` – epidemiologic analysis examples
+## Repository Structure
+- `R-analysis/` – Quantitative analysis scripts (R)
+- `Stata/` – Epidemiologic analysis examples (Stata)
+- `SQL/` – Example health data queries (training in progress)
